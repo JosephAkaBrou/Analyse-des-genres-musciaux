@@ -1,6 +1,6 @@
 https://bigishdata.com/2016/09/27/getting-song-lyrics-from-geniuss-api-scraping/
 
-# La piraterie n'est jamais finie
+# Nice Lyrics App
 Analyse de corpus musicaux
 
 ## Description
