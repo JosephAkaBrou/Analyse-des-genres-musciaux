@@ -24,3 +24,5 @@ Le choix des chansons est important : Le corpus doit avoir un nombre conséquent
 ## Modèle de prédiction
 ### Choix du modèle
 ### Entrainement 
+### Limite du modèle
+### Améliorations
