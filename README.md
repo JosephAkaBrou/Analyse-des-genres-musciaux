@@ -26,3 +26,6 @@ Le choix des chansons est important : Le corpus doit avoir un nombre conséquent
 ### Entrainement 
 ### Limite du modèle
 ### Améliorations
+
+
+# (Readme en cours de mise à jours)
